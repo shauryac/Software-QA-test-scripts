@@ -4,7 +4,7 @@ Used data-driven, object-oriented approach and programmatic validations while de
 
 #Zomato app Test Automation
 The script (AccountTest.java) describes the test cases for the test object- CheckIn Functionality of Zomato app.
-#CheckIn button in Zomato app UI is used to check-in to a restaurant by the users so that they can share the restaurant info amongst their
+CheckIn button in Zomato app UI is used to check-in to a restaurant by the users so that they can share the restaurant info amongst their
 peers. It requires a particular user to be registered/login to zomato app in order to CheckIn.
 The script describes following test cases:
 (i) checks LogIn functionality 
