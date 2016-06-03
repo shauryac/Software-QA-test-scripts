@@ -1,5 +1,5 @@
 # Software-QA-test-scripts
-Test scripts for different android apps.
+Test scripts for different mobile apps(android).
 Used data-driven, object-oriented approach and programmatic validations while designing and executing of the test cases.
 
 #Zomato app Test Automation
@@ -13,7 +13,7 @@ The script describes following test cases:
 (iv) Verifies Search for restaurant
 (v) Ensuring the checkIn button works and that restaurant has been checked-in.
 
-#Style app Test Automation
+#StyleSeat Test Automation
 Second script(StyleAppTest.java) describes the test cases for 2 test objects of app - StyleSeat
 
 Test Object #1: Checking LOGIN functionality.
