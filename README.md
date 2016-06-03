@@ -14,7 +14,7 @@ The script describes following test cases:
 (v) Ensuring the checkIn button works and that restaurant has been checked-in.
 
 #Style app Test Automation
-Second script(StyleApp Test.java) describes the test cases for 2 test objects of app - StyleSeat
+Second script(StyleAppTest.java) describes the test cases for 2 test objects of app - StyleSeat
 
 Test Object #1: Checking LOGIN functionality.
 The script describes series of test cases for the following test steps: 
