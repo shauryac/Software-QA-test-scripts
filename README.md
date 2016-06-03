@@ -18,12 +18,17 @@ Second script(StyleAppTest.java) describes the test cases for 2 test objects of 
 
 Test Object #1: Checking LOGIN functionality.
 The script describes series of test cases for the following test steps: 
+
 (i) Verify LOG IN button.
+
 (ii) Validating LOGIN with facebook.
 
 Test Object #2: Search
+
 (i) Checking search bar functionality
+
 (ii) Checking if it allows to enter text 
+
 (iii) Verifying if entering into search bar displays options/results 
 
 
