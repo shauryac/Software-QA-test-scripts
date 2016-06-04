@@ -40,4 +40,5 @@ Test Object #2: Search
 
 # Web Automation script- Southwest Flights
 Used selenium webdriver
+
 Script has bunch of test cases validating various elements and functionalities on the Southwest flights webpage.
