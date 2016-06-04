@@ -38,6 +38,6 @@ Test Object #2: Search
 (iii) Verifying if entering into search bar displays options/results 
 
 
-# Web Automation script- Southwest Flights webpage
+# Web Automation script- Southwest Flights
 Used selenium webdriver
 Script has bunch of test cases validating various elements and functionalities on the Southwest flights webpage.
