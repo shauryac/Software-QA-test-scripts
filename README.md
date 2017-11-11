@@ -2,7 +2,7 @@
 Test scripts for different web and mobile apps(android).
 Used data-driven, object-oriented approach and programmatic validations while designing and executing of the test cases.
 
-#Zomato app Test Automation
+# Zomato app Test Automation
 
 The script (AccountTest.java) describes the test cases for the test object- CheckIn Functionality of Zomato app.
 
@@ -20,7 +20,7 @@ The script describes following test cases:
 
 (v) Ensuring the checkIn button works and that restaurant has been checked-in.
 
-#StyleSeat Test Automation
+# StyleSeat Test Automation
 
 Script(StyleAppTest.java) describes the test cases for 2 test objects of app - StyleSeat
 
